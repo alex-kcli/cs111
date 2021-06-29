@@ -1,1 +1,18 @@
+lab3a.c
+A C program source file that reads, analyzes, and summarizes the contents of an on-disk representation of a file system.
 
+
+Makefile
+A makefile file that supports compiling the C source file into executable.
+  Supports the following options
+    default
+    dist
+    clean
+
+
+README
+A file that describes all informations contained in the submission tarball
+
+
+Reference:
+Section Slides
