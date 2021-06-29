@@ -1,0 +1,18 @@
+lab3b.c
+A python script that reads, analyzes and report if there is any inconsistencies in a .csv file system summary. Inconsistencies are reported to stdout
+
+
+Makefile
+A makefile file that supports the following options
+    default
+    dist
+    clean
+
+
+README
+A file that describes all information in the submission tarball
+
+
+Reference:
+Section Slides
+https://docs.python.org/3/library/csv.html
