@@ -1,1 +1,22 @@
+lab4b.c
+A C program source code that runs in an embedded system, reads data from external sensors, and log the results.
 
+
+Makefile
+A makefile file that supports the following options:
+    default
+    check
+    clean
+    dist
+
+
+README
+A file that describes all information in the submission tarball.
+
+
+smoke_test.sh
+A shell script that performs trivial tests on outputs from commands and options.
+
+
+Reference:
+Section Slides
