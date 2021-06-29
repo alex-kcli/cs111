@@ -1,0 +1,20 @@
+lab4c_tcp.c
+A C program source code that receives commands from the server and report temperature to the server.
+
+lab4c_tls.c
+A C program source code that encrypts the communication between the Beaglebone and the server
+
+
+Makefile
+A makefile file that supports the following options:
+    default
+    clean
+    dist
+
+
+README
+A file that describes all information in the submission tarball.
+
+
+Reference:
+Section Slides, Tianxiang
